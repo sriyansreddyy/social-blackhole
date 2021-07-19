@@ -148,17 +148,13 @@ nav a:hover {
     /* images */
         .profile-img {
             height: 7em;
-            width: 100%;
+            width: 5.5em;
             /* max-width: 7em; */
             border-radius: 10px;
             margin-bottom: 0;
             /* border: 2px solid aqua; */
         }
 
-        .pumpkin-img,
-        .hoggy-img {
-            width: 5.5em;
-        }
     /* /images */
 
 
